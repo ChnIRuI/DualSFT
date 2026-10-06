@@ -19,6 +19,9 @@ The current public release implements a practical three-stage workflow:
 
 ![DualSFT Framework](resource/DualSFT.png)
 
+## 🎉 News
+* Our paper has been accepted to **NeurIPS 2026**!
+
 
 ## 🚀 Quick Start
 
